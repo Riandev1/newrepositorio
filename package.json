@@ -1,16 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "new2025",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
-=======
-  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -61,5 +50,4 @@
   "devDependencies": {
     "file-loader": "^6.2.0"
   }
->>>>>>> 9b32b60 (Add files via upload)
 }
